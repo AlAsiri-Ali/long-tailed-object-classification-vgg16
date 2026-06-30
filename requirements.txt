@@ -1,0 +1,9 @@
+fiftyone
+opencv-python
+scikit-learn
+tensorflow
+keras
+matplotlib
+seaborn
+numpy
+notebook
